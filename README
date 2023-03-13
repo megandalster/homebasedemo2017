@@ -1,5 +1,5 @@
 Homebase is a web-based application that provides database and scheduling support
-for the Ronald McDonald Houses in Maine and Rhode Island.
+for the Ronald McDonald Houses in Maine, Massachusetts, and Rhode Island.
 
 Installation: Homebase runs on an Apache/MySQL/PHP server.  To install it, visit the
 project Wiki at https://github.com/megandalster/homebasedemo2017/wiki/installation-and-reuse/.
